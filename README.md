@@ -25,3 +25,5 @@ graph TD
     G --> H[Plot fungsi dan batang grid trapesium]
     H --> I[Menampilkan hasil]
 ```
+Berikut Ilustrasi Integral Numerik Trapezoid Multigrid Fungsi Sin(x)
+![https://github.com/FillahAlamsyah/Template_Prakfiskom/blob/main/Flowchart%20Studi%20Kasus%201-2023-11-21-020346.png](https://github.com/FillahAlamsyah/Template_Prakfiskom/blob/main/output.png)
